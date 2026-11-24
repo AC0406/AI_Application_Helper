@@ -1,0 +1,17 @@
+{
+  "name": "Your Name",
+  "contact": {
+    "email": "you@example.com",
+    "phone": "000-000-0000",
+    "location": "City, Province",
+    "relocation_locations": ["City, Province"],
+    "linkedin": "linkedin.com/in/your-handle"
+  },
+  "education": [{"id": "edu-1", "school": "University", "location": "City", "degree": "B.Eng. ...", "start": "2022", "grad": "Dec 2026", "coursework": ["..."]}],
+  "skills": ["Python", "C++"],
+  "experience": [{"id": "job-1", "role": "Role", "org": "Company", "location": "Place", "dates": "2026 - Present",
+    "bullets": [{"id": "job-1-a", "text": "Specific, verifiable bullet.", "tags": ["python"]}]}],
+  "projects": [{"id": "proj-1", "name": "Project", "tech": ["Python"],
+    "bullets": [{"id": "proj-1-a", "text": "What you built.", "tags": ["python"]}]}],
+  "targets": ["software engineer"]
+}

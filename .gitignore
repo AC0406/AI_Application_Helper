@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+master_profile.json
+jobs.db
+out_*.json
+out_*.pdf
+out_*.docx
+repo_context.txt
+.env

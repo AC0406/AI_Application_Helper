@@ -1,0 +1,21 @@
+{
+  "greenhouse": [
+    "tenstorrent",
+    "mozilla"
+  ],
+  "lever": [
+    "waabi"
+  ],
+  "ashby": [
+    "cohere"
+  ],
+  "adzuna_queries": [
+    "embedded software engineer",
+    "firmware engineer",
+    "embedded linux",
+    "robotics software engineer",
+    "machine learning engineer junior",
+    "junior software developer",
+    "new grad software engineer"
+  ]
+}
